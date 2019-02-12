@@ -1,5 +1,28 @@
+html {
+  background: url(../Photo`s/Wood.jpeg);
+}
+
 ul a {
   color: black;
-  border: solid black;
-  padding: 20px 20px 20px 20px
+  border: solid transparent;
+  padding: 20px 20px 20px 20px;
+  background-color: #dddddd;
+  border-radius: 8px 0px 8px 0px;
+  margin: 10px;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+ul{
+  border: solid transparent 10px;
+  background-color: black;
+}
+
+ul a:hover {
+  background-color: #adadad;
+}
+
+body {
+  color: white;
 }

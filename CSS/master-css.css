@@ -23,6 +23,17 @@ ul a:hover {
   background-color: #adadad;
 }
 
-body {
+body h4, body p, body h2 {
   color: white;
+  margin-left: 30px;
+  font-family: sans-serif;
+}
+
+#Vragen {
+  font-style: italic;
+}
+
+ul a.active {
+  background-color: #adadad;
+  cursor: default;
 }

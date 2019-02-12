@@ -23,7 +23,7 @@ ul a:hover {
   background-color: #adadad;
 }
 
-body h4, body p, body h2 {
+body h4, body p, body h2, body h1 {
   color: white;
   margin-left: 30px;
   font-family: sans-serif;
